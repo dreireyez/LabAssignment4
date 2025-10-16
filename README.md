@@ -7,7 +7,7 @@ This is Laboratory Assignment 4 for the course, Software Engineering 1, taken du
 
 **Class Definitions:**
 <ul>
-  <li><b>Hotel Service (Interface): </b>Defines the common interface for all hotel services.</li>
+  <li><b>HotelService (Interface): </b>Defines the common interface for all hotel services.</li>
   <li><b>Valet: </b>A service class implementing the HotelService interface, responsible for vehicle valet parking and pick-up. It includes the pickUpVehicle(plateNumber) method.</li>
   <li><b>HouseKeeping: </b>A service class implementing the HotelService interface, responsible for room cleaning. It includes the cleanRoom(roomNumber) method.</li>
   <li><b>Cart: </b>A service class implementing the HotelService interface, responsible for handling luggage cart requests. It includes the requestCart(numberOfCarts) method.</li>
