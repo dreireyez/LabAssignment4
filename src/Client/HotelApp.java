@@ -1,3 +1,10 @@
+package Client;
+
+import Facade.FrontDesk;
+import Subsystem.Cart;
+import Subsystem.HouseKeeping;
+import Subsystem.Valet;
+
 // Client Class
 public class HotelApp {
     public static void main(String[] args) {
